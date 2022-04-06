@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomAdapter</string>
+
+    <string-array name="phone_type">
+        <item>iOS</item>
+        <item>Android</item>
+    </string-array>
+</resources>
